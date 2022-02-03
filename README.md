@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HiDER01
+- 👀 I’m interested in computer programming (just beginning), european football and AAA games :)
+- 🌱 I’m currently learning pragramming in C++ on my studies. 
+- 💞️ I’m looking to collaborate on ... i don't know realy, we will see.
+- 📫 How to reach me ...yyyy via GitHub? If its possible ofcourse
